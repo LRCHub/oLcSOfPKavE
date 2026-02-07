@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "醜形恐怖症",
+  "base_artist": "なるみや",
+  "createdAt": "2026-02-07T19:41:52.849057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "醜形恐怖症",
+      "artist": "なるみや",
+      "has_synced": true,
+      "path": "select/01_醜形恐怖症_なるみや.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "醜形恐怖症 - なるみや",
+      "artist": "Narumiya",
+      "has_synced": false,
+      "path": "select/02_醜形恐怖症_-_なるみや_Narumiya.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "醜形恐怖症",
+      "artist": "Narumiya",
+      "has_synced": false,
+      "path": "select/03_醜形恐怖症_Narumiya.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "醜形恐怖症",
+      "artist": "なるみや",
+      "has_synced": false,
+      "path": "select/pl_01_醜形恐怖症_なるみや.txt"
+    }
+  ]
+}
